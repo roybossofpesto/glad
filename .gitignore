@@ -1,5 +1,4 @@
 *.pyc
-/*.xml
 *.kdev4
 build/
 *.o
